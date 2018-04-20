@@ -1,6 +1,6 @@
 # aantonen-realiseren-S2.1
 
-De packages die gebruikt worden zijn als volgt:
+De `packages` die gebruikt worden zijn als volgt:
 
 ```
 "axios": "^0.17",
