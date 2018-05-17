@@ -13,4 +13,4 @@ De `packages` die gebruikt worden zijn als volgt:
 "tailwindcss": "^0.4.1",
 "vue": "^2.5.7"
 ```
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/rBzEa8y"><a href="//imgur.com/rBzEa8y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="http://oi67.tinypic.com/2h7nbdz.jpg"/>
